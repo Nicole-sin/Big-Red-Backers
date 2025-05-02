@@ -1,5 +1,9 @@
 # Big-Red-Backers
 
+Hi our final project is found on this link:
+https://github.com/Nicole-sin/Big-Red-Backers-official
+
+
 Implementation 
 app.py routes 
 getAllReviews
